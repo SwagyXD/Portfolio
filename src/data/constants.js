@@ -196,7 +196,26 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 0,
+    title: "Awsome Portfolio",
+    date: "",
+    description:
+      "My Portfolio website",
+    image:
+      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    tags: [
+      "ReactJS",
+      "emailJS",
+      "styled-components",
+      "Eslint",
+      "framer-motion",
+    ],
+    category: "web app",
+    github: "https://github.com/SwagyXD/Portfolio.git",
+    webapp: "https://swagyxd.vercel.app/",
+  },
+  {
+    id: 1,
     title: "Trackify",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -222,7 +241,7 @@ export const projects = [
   },
 
   {
-    id: 1,
+    id: 2,
     title: "Vexa",
     date: "Oct 2022 - Present",
     description:
