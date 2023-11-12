@@ -202,7 +202,7 @@ export const projects = [
     description:
       "My Portfolio website",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "https://github.com/SwagyXD/Portfolio/assets/106139395/2f3f38fa-4abd-4c02-a474-f2db7263d9f4",
     tags: [
       "ReactJS",
       "emailJS",
