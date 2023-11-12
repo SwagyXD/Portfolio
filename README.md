@@ -16,7 +16,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 
 
-<img width="450px;" src="![Screenshot (40)](https://github.com/SwagyXD/Portfolio/assets/106139395/ad7c1803-dd24-4bf4-be20-b3aa6fbf657f)"/>
+<img width="450px;" src=""/>
 
 
 ## Table of Contents
