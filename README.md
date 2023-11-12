@@ -1,4 +1,4 @@
-# React + Vite
+![Untitled video - Made with Clipchamp (1)](https://github.com/SwagyXD/Portfolio/assets/106139395/b96cf85b-6b36-4744-b371-5f69be45ad54)# React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
@@ -18,8 +18,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/741ca808-3a9b-45a3-8a4a-3820252b522a"/>
 
 ## Video Gif!
-
-![portfolioGIF](https://github.com/SwagyXD/Portfolio/assets/106139395/9da16567-9e8d-43a0-b907-eae7ecb878d1)
+<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/abe1e892-8ca3-4a53-a4c4-3bda9c559850"/>
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
