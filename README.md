@@ -12,14 +12,14 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website]()
 ## Some Images:
-<img width="450px;" src=""/>
+<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/2f3f38fa-4abd-4c02-a474-f2db7263d9f4"/>
+<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/1227ff79-8a46-44e6-950e-6f8d0050539a"/>
+<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/78d46591-f463-473d-a143-3bffdb1d3c57"/>
+<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/741ca808-3a9b-45a3-8a4a-3820252b522a"/>
 
-## Table of Contents!
-- [Screenshot (40)](https://github.com/SwagyXD/Portfolio/assets/106139395/2f3f38fa-4abd-4c02-a474-f2db7263d9f4)
-- [Introduction](#introduction)![Screenshot 2023-11-12 112619](https://github.com/SwagyXD/Portfolio/assets/106139395/1227ff79-8a46-44e6-950e-6f8d0050539a)
-- ![Screenshot 2023-11-12 112630](https://github.com/SwagyXD/Portfolio/assets/106139395/78d46591-f463-473d-a143-3bffdb1d3c57)
-- ![Screenshot 2023-11-12 112645](https://github.com/SwagyXD/Portfolio/assets/106139395/e3299046-4f8d-44e1-90f7-730b53924adc)
-- ![Screenshot 2023-11-12 112740](https://github.com/SwagyXD/Portfolio/assets/106139395/741ca808-3a9b-45a3-8a4a-3820252b522a)
+## Video Gif!
+
+![portfolioGIF](https://github.com/SwagyXD/Portfolio/assets/106139395/9da16567-9e8d-43a0-b907-eae7ecb878d1)
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
