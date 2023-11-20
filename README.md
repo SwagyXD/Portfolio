@@ -12,7 +12,6 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ## Video Gif!
 <img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/abe1e892-8ca3-4a53-a4c4-3bda9c559850"/>
-<img width="450px;" src="https://github.com/SwagyXD/Portfolio/assets/106139395/abe1e892-8ca3-4a53-a4c4-3bda9c559850"/>
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
