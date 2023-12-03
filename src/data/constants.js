@@ -4,7 +4,8 @@ export const Bio = {
   description:
     "“Innovating the Future: A Tech-Savvy Graduate’s Journey” - Ready to bring my innovative mindset to a dynamic team, creating cutting-edge solutions.",
   github: "https://github.com/SwagyXD",
-  resume: "https://drive.google.com/file/d/1cVFapYVt9dVMuhKDdakmrjxaSQG6PTDa/view?usp=sharing",
+  resume:
+    "https://drive.google.com/file/d/1cVFapYVt9dVMuhKDdakmrjxaSQG6PTDa/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/swaggy007/",
   // twitter: "",
   insta: "#",
@@ -199,8 +200,7 @@ export const projects = [
     id: 0,
     title: "Awsome Portfolio",
     date: "",
-    description:
-      "My Portfolio website",
+    description: "My Portfolio website",
     image:
       "https://github.com/SwagyXD/Portfolio/assets/106139395/2f3f38fa-4abd-4c02-a474-f2db7263d9f4",
     tags: [
@@ -216,6 +216,29 @@ export const projects = [
   },
   {
     id: 1,
+    title: "Flipkart Clone [MERN STACk]",
+    date: "NOV 2023",
+    description:
+      "Designed and developed the FlipKart Clone Using the help of AI efficiantly. Basically this project is a clone of the popular e-commerce platform, Flipkart, built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It includes a wide range of features that enhance the user experience and provide robust administrative controls.",
+    image:
+      "https://user-images.githubusercontent.com/64949957/153996560-bd631f30-46f0-4248-83b3-d8ce44a8f9e4.PNG",
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Redux",
+      "NodeMailer",
+      "Redux",
+      "Payment Gateway",
+      "many more"
+    ],
+    category: "web app",
+    github: "https://github.com/SwagyXD/Flipkart-Clone",
+    webapp: "flipkart-clone-client-three.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Trackify",
     date: "Jun 2023 - Jul 2023",
     description:
@@ -241,7 +264,7 @@ export const projects = [
   },
 
   {
-    id: 2,
+    id: 3,
     title: "Vexa",
     date: "Oct 2022 - Present",
     description:
