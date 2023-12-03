@@ -5,6 +5,7 @@ import { FaLinkedin, FaRegEnvelope, FaGithub } from "react-icons/fa6";
 
 export const Nav = styled.div`
   background-color: ${({ theme }) => theme.card_light};
+  backdrop-filter: blur(10px);
   height: 80px;
   display: flex;
   align-items: center;
@@ -14,9 +15,11 @@ export const Nav = styled.div`
   top: 0;
   z-index: 10;
   @media (max-width: 960px) {
-    trastion: 0.8s all ease;
+    transition: 0.8s all ease;
   }
 `;
+
+
 export const NavbarContainer = styled.div`
   display: flex;
   justify-content: space-between;

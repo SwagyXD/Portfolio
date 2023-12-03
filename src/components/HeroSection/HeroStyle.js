@@ -1,8 +1,12 @@
-import styled, { keyframes } from 'styled-components';
+import styled, { keyframes } from "styled-components";
 // import _default from "../../themes/default";
 
 export const HeroContainer = styled.div`
-  background: ${({ theme }) => theme.card_light};
+  background-image: radial-gradient(
+    circle farthest-corner at 48.4% 47.5%,
+    rgba(76, 21, 51, 1) 0%,
+    rgba(34, 10, 37, 1) 90%
+  );
   height: 100vh;
   // overflow: hidden;
   display: flex;
@@ -30,7 +34,6 @@ export const HeroBg = styled.div`
     top: 50%;
     left: 65%;
   }
-
 
   @media (max-width: 1024px) {
     justify-content: center;

@@ -37,6 +37,8 @@ bower_components
 
 *.sublime*
 
+.eslintrc.cjs
+vite.config.cjs
 psd
 thumb
 sketch
