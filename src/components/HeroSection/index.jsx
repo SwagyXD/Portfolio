@@ -19,8 +19,8 @@ import { Bio } from "../../data/constants";
 
 const SlidingTextContainer = styled(motion.div)`
   position: absolute;
-  font-size: 20vh;
-  top: 0vh;
+  font-size: 18vh;
+  bottom: 2vh;
   white-space: nowrap;
   color: #ffffff09;
   width: 50%;
