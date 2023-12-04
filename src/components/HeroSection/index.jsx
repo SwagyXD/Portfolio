@@ -16,6 +16,7 @@ import {
 import styled from "styled-components";
 import Typewriter from "typewriter-effect";
 import { Bio } from "../../data/constants";
+import BlobSvg from "./Blob";
 
 const SlidingTextContainer = styled(motion.div)`
   position: absolute;

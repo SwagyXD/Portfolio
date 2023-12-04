@@ -1,6 +1,7 @@
 import styled, { keyframes } from "styled-components";
 // import _default from "../../themes/default";
 
+
 export const HeroContainer = styled.div`
   background-image: radial-gradient(
     circle farthest-corner at 48.4% 47.5%,
