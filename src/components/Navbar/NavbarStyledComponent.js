@@ -4,7 +4,7 @@ import { FaLinkedin, FaRegEnvelope, FaGithub } from "react-icons/fa6";
 // import _default from '../../themes/default';
 
 export const Nav = styled.div`
-  background: ${({ theme }) => theme.card_light};
+  background-color: ${({theme}) => theme.card_light};
   height: 80px;
   display: flex;
   align-items: center;
