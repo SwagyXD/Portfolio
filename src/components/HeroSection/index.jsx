@@ -29,11 +29,11 @@ const SlidingTextContainer = styled(motion.div)`
   z-index: -99;
   @media (max-width: 768px) {
     font-size: 18vh;
-    bottom: 200px;
+    bottom: 165px;
   }
   @media (max-width: 640px) {
     font-size: 10vh;
-    bottom: 280px;
+    bottom: 235px;
   }
 `;
 
