@@ -235,7 +235,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/SwagyXD/Flipkart-Clone",
-    webapp: "flipkart-clone-client-three.vercel.app/",
+    webapp: "flipkart-clone-client-three.vercel.app",
   },
   {
     id: 2,
